@@ -1,0 +1,35 @@
+Assembling ANTHILL.ZAP.447 on Monday, December 15, 1986 15:25:36
+Release: 37
+	     (2 bytes)
+    66	Inserting ANTHILLFREQ.XZAP.1	   (644 bytes)
+   710	Inserting ANTHILLDAT.ZAP.282	 (21438 bytes)
+ 22148	Inserting ANTHILLPUR.ZAP.96	   (228 bytes)
+ 22376	Inserting MISC.ZAP.514	  (2267 bytes)
+ 24643	Inserting PARSER.ZAP.406	  (9944 bytes)
+ 34587	Inserting GLOBALS.ZAP.403	  (1358 bytes)
+ 35945	Inserting SYNTAX.ZAP.404	    (43 bytes)
+ 35988	Inserting VERBS.ZAP.396	 (11680 bytes)
+ 47668	Inserting PARLOR.ZAP.391	  (5161 bytes)
+ 52829	Inserting FIRST-FLOOR.ZAP.339	 (10608 bytes)
+ 63437	Inserting SECOND-FLOOR.ZAP.331	  (5867 bytes)
+ 69304	Inserting BSHELTER.ZAP.364	  (6571 bytes)
+ 75875	Inserting OUTSIDE.ZAP.338	  (5945 bytes)
+ 81820	Inserting ELEVATOR.ZAP.200	  (7944 bytes)
+ 89764	Inserting HEDGEMAZE.ZAP.320	  (9113 bytes)
+ 98877	Inserting MAP.ZAP.315	     (0 bytes)
+ 98877	Inserting POINTS.ZAP.180	     (0 bytes)
+ 98877	Inserting ANTHILLSTR.ZAP.281	 (10773 bytes)
+
+Symbols unused:
+V-$DEBUG
+HEDGE-NUM
+
+244 objects.
+167 globals.
+854 word vocabulary.
+
+109650 bytes (108K).
+ 22148 bytes of preload.
+ 12142 bytes of impure.
+
+Outputting symbol tables

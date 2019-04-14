@@ -1,0 +1,1129 @@
+
+Combined ZIL Compiler Ver 2.0 (MIM)
+-----------------------------------
+Input file: PS:<DA.PLAYLAND>ANTHILL.ZIL.118
+Input file: PS:<DA.PLAYLAND>MISC.ZIL.175
+Compiling routine: APRINT
+Compiling routine: TPRINT
+Compiling routine: ARPRINT
+Compiling routine: TRPRINT
+Compiling routine: DPRINT
+Compiling routine: ULTIMATELY-IN?
+Compiling routine: GO
+Compiling routine: RESET-THEM
+Compiling routine: PCLEAR
+Compiling routine: DO-MAIN-LOOP
+Compiling routine: MAIN-LOOP
+Compiling routine: DONT-ALL?
+Compiling routine: GAME-VERB?
+Compiling routine: QCONTEXT-CHECK
+Compiling routine: SAID-TO
+Compiling routine: SPOKEN-TO
+Compiling routine: QCONTEXT-GOOD?
+Compiling routine: ACCESSIBLE?
+Compiling routine: VISIBLE?
+Compiling routine: SEE-INSIDE?
+Compiling routine: META-LOC
+Compiling routine: DEQUEUE
+Compiling routine: QUEUE
+Compiling routine: QUEUED?
+Compiling routine: CLOCKER
+Compiling routine: FIXED-FONT-ON
+Compiling routine: FIXED-FONT-OFF
+Input file: PS:<DA.PLAYLAND>PARSER.ZIL.252
+Compiling routine: PARSER
+Compiling routine: CHANGE-LEXV
+Compiling routine: WAY-TO-TALK
+Compiling routine: WT?
+Compiling routine: CLAUSE
+Compiling routine: THIS-IS-IT
+Compiling routine: REFERRING
+Compiling routine: FAKE-ORPHAN
+Compiling routine: SEE-VERB?
+Compiling routine: PERFORM
+Compiling routine: BUZZER-WORD?
+Compiling routine: NUMBER-WORD?
+Compiling routine: NAUGHTY-WORD?
+Compiling routine: VERB-DIR-ONLY?
+Compiling routine: STUFF
+Compiling routine: INBUF-STUFF
+Compiling routine: INBUF-ADD
+Compiling routine: NUMBER?
+Compiling routine: ORPHAN-MERGE
+Compiling routine: CLAUSE-WIN
+Compiling routine: WORD-PRINT
+Compiling routine: UNKNOWN-WORD
+Compiling routine: SYNTAX-CHECK
+Compiling routine: VERB-PRINT
+Compiling routine: ORPHAN
+Compiling routine: CLAUSE-PRINT
+Compiling routine: BUFFER-PRINT
+Compiling routine: NAME?
+Compiling routine: CAPITALIZE
+Compiling routine: PREP-PRINT
+Compiling routine: CLAUSE-COPY
+Compiling routine: CLAUSE-ADD
+Compiling routine: PREP-FIND
+Compiling routine: SYNTAX-FOUND
+Compiling routine: GWIM
+Compiling routine: SNARF-OBJECTS
+Compiling routine: BUT-MERGE
+Compiling routine: SNARFEM
+Compiling routine: ADJ-CHECK
+Compiling routine: GET-OBJECT
+Compiling routine: SPEAKING-VERB?
+Compiling routine: MOBY-FIND
+Compiling routine: WHICH-PRINT
+Compiling routine: GLOBAL-CHECK
+Compiling routine: DO-SL
+Compiling routine: SEARCH-LIST
+Compiling routine: THIS-IT?
+Compiling routine: OBJ-FOUND
+Compiling routine: TAKE-CHECK
+Compiling routine: ITAKE-CHECK
+Compiling routine: MANY-CHECK
+Compiling routine: ZMEMQ
+Compiling routine: ZMEMQB
+Compiling routine: LIT?
+Compiling routine: PICK-ONE
+Compiling routine: PICK-REMOVE
+Compiling routine: DONT-HAVE?
+Compiling routine: NOT-HOLDING
+Compiling routine: ASKING?
+Compiling routine: TALKING-TO?
+Compiling routine: TOUCHING?
+Compiling routine: HURT?
+Compiling routine: ANYONE-HERE?
+Compiling routine: GETTING-INTO?
+Compiling routine: SAY-THE
+Compiling routine: BUT-THE
+Compiling routine: MOVING?
+Compiling routine: NOT-HERE-OBJECT-F
+Compiling routine: FIND-NOT-HERE
+Compiling routine: NOT-HERE-PRINT
+Compiling routine: MOVE-ALL
+Compiling routine: GLOBAL-IN?
+Compiling routine: WHAT-A-CONCEPT
+Compiling routine: YOU-DONT-NEED
+Compiling routine: ITS-CLOSED
+Compiling routine: IS-CLOSED
+Input file: PS:<DA.PLAYLAND>GLOBALS.ZIL.122
+Compiling routine: CANT-USE
+Compiling routine: DONT-UNDERSTAND
+Compiling routine: NOT-IN-SENTENCE
+Compiling routine: LIGHTS-F
+Compiling routine: GROUND-F
+Compiling routine: MAZE-HOLE-F
+Compiling routine: WALLS-F
+Compiling routine: CEILING-F
+Compiling routine: HANDS-F
+Compiling routine: YOUR-FEET-F
+Compiling routine: ME-F
+Compiling routine: TALK-TO-SELF
+Compiling routine: SIGN-OF-COLLAPSE
+Compiling routine: GLOBAL-ROOM-F
+Compiling routine: CANT-SEE-ANY
+Compiling routine: YOU-CANT-SEE
+Compiling routine: YOU-ALREADY
+Compiling routine: HOW?
+Compiling routine: PRESUMABLY-YOU-WANT-TO
+Compiling routine: NOT-LIKELY
+Compiling routine: YOUD-HAVE-TO
+Compiling routine: WINDOW-F
+Input file: PS:<DA.PLAYLAND>SYNTAX.ZIL.262
+Compiling routine: V-FLUSH
+Input file: PS:<DA.PLAYLAND>VERBS.ZIL.653
+Compiling routine: DESCRIBE-ROOM
+Compiling routine: DESCRIBE-OBJECTS
+Compiling routine: DESCRIBE-CONTENTS
+Compiling routine: DESCRIBABLE?
+Compiling routine: SIMPLE-DESC?
+Compiling routine: DESCRIBE-NOTHING
+Compiling routine: V-ALARM
+Compiling routine: ALREADY-OPEN
+Compiling routine: ALREADY-CLOSED
+Compiling routine: V-ASK-ABOUT
+Compiling routine: V-ASK-FOR
+Compiling routine: V-BITE
+Compiling routine: V-BLOW-INTO
+Compiling routine: PRE-BOARD
+Compiling routine: V-BOARD
+Compiling routine: V-BURN
+Compiling routine: V-BUY
+Compiling routine: CANT-CLOSE-THAT
+Compiling routine: CANT-GO
+Compiling routine: CANT-LOCK
+Compiling routine: V-CHASTISE
+Compiling routine: V-CLEAN
+Compiling routine: V-CLIMB
+Compiling routine: V-CLIMB-DOWN
+Compiling routine: V-CLIMB-ON
+Compiling routine: V-CLIMB-OVER
+Compiling routine: V-CLIMB-UP
+Compiling routine: V-CLOSE
+Compiling routine: V-COMPARE
+Compiling routine: V-COUNT
+Compiling routine: V-COVER
+Compiling routine: V-CROSS
+Compiling routine: V-CUT
+Compiling routine: V-$DEBUG
+Compiling routine: V-DIAGNOSE
+Compiling routine: V-DIG-WITH
+Compiling routine: V-DIG
+Compiling routine: V-DISEMBARK
+Compiling routine: V-DRINK
+Compiling routine: V-DRINK-FROM
+Compiling routine: SPECIAL-DROP
+Compiling routine: V-DROP
+Compiling routine: IDROP
+Compiling routine: V-EAT
+Compiling routine: V-EMPTY
+Compiling routine: V-ENTER
+Compiling routine: PRE-EXAMINE
+Compiling routine: V-EXAMINE
+Compiling routine: V-EXIT
+Compiling routine: FAILED
+Compiling routine: V-FILL
+Compiling routine: V-FIND
+Compiling routine: FIND-IN
+Compiling routine: FINISH
+Compiling routine: V-FLY
+Compiling routine: V-FOCUS
+Compiling routine: V-FOLLOW
+Compiling routine: PRE-GIVE
+Compiling routine: V-GIVE
+Compiling routine: V-SGIVE
+Compiling routine: GOTO
+Compiling routine: HACK-HACK
+Compiling routine: PRE-HANG-UP
+Compiling routine: V-HANG-UP
+Compiling routine: V-HELLO
+Compiling routine: V-HELP
+Compiling routine: V-HIDE
+Compiling routine: V-INVENTORY
+Compiling routine: ITS-ALREADY
+Compiling routine: JIGS-UP
+Compiling routine: V-KICK
+Compiling routine: V-KILL
+Compiling routine: KILL-INTERRUPTS
+Compiling routine: V-KISS
+Compiling routine: V-KNOCK
+Compiling routine: V-LAMP-OFF
+Compiling routine: V-LAMP-ON
+Compiling routine: CANT-TURN
+Compiling routine: V-LEAP
+Compiling routine: V-LEAVE
+Compiling routine: V-LET-GO
+Compiling routine: V-LIE-DOWN
+Compiling routine: V-LISTEN
+Compiling routine: V-LOCK
+Compiling routine: THING-WONT-LOCK
+Compiling routine: V-LOOK
+Compiling routine: V-LOOK-BEHIND
+Compiling routine: V-LOOK-DOWN
+Compiling routine: V-LOOK-INSIDE
+Compiling routine: V-LOOK-ON
+Compiling routine: V-LOOK-THRU
+Compiling routine: V-LOOK-UNDER
+Compiling routine: V-LOOK-UP
+Compiling routine: V-LOWER
+Compiling routine: V-MOVE
+Compiling routine: V-MUNG
+Compiling routine: NO-ANSWER
+Compiling routine: NOT-A
+Compiling routine: NOTHING-INTERESTING
+Compiling routine: NOW-BLACK
+Compiling routine: NOW-CLOSED-OR-OPEN
+Compiling routine: V-OPEN
+Compiling routine: CANT-OPEN-CLOSE
+Compiling routine: OTHER-SIDE
+Compiling routine: V-PICK
+Compiling routine: V-PLAY
+Compiling routine: OPEN-CRAWL-SPACE-DOOR?
+Compiling routine: V-POUR
+Compiling routine: V-PULL
+Compiling routine: V-PUSH
+Compiling routine: V-PUSH-DOWN
+Compiling routine: V-PUSH-TO
+Compiling routine: V-PUSH-UP
+Compiling routine: PRE-PUT
+Compiling routine: V-PUT
+Compiling routine: V-PUT-BEHIND
+Compiling routine: V-PUT-ON
+Compiling routine: V-PUT-UNDER
+Compiling routine: V-QUESTION
+Compiling routine: V-QUIT
+Compiling routine: V-RAPE
+Compiling routine: V-RAISE
+Compiling routine: V-REACH-IN
+Compiling routine: V-READ
+Compiling routine: CANT-VERB-A-PRSO
+Compiling routine: V-READ-TO
+Compiling routine: HOW-READ
+Compiling routine: V-REMOVE
+Compiling routine: V-REMOVE-FROM
+Compiling routine: V-REPLACE
+Compiling routine: V-REPLY
+Compiling routine: V-RESCUE
+Compiling routine: V-RESET
+Compiling routine: V-RESTART
+Compiling routine: V-RESTORE
+Compiling routine: V-RIDE
+Compiling routine: ROB
+Compiling routine: V-ROLL-UP
+Compiling routine: V-RUB
+Compiling routine: V-SAVE
+Compiling routine: V-SAY
+Compiling routine: SAY-IF-NOT-LIT
+Compiling routine: SAY-OKAY
+Compiling routine: SAY-SURE
+Compiling routine: V-SCORE
+Compiling routine: V-SCRAPE-OFF
+Compiling routine: V-SCRIPT
+Compiling routine: V-UNSCRIPT
+Compiling routine: TRANSCRIPT
+Compiling routine: V-SEARCH
+Compiling routine: V-SHAKE
+Compiling routine: V-SHOOT
+Compiling routine: V-SSHOOT
+Compiling routine: V-SHOW
+Compiling routine: V-SSHOW
+Compiling routine: V-SIT
+Compiling routine: PRE-SKI
+Compiling routine: V-SKI
+Compiling routine: V-SLEEP
+Compiling routine: V-SMELL
+Compiling routine: V-SPLICE
+Compiling routine: V-SQUEEZE
+Compiling routine: V-STAND
+Compiling routine: V-STAND-ON
+Compiling routine: V-STAND-UNDER
+Compiling routine: V-SWING
+Compiling routine: V-SWIM
+Compiling routine: V-SWIM-UP
+Compiling routine: V-SWIM-DOWN
+Compiling routine: PRE-TAKE
+Compiling routine: V-TAKE
+Compiling routine: ITAKE
+Compiling routine: BOKS-BIG-ONE
+Compiling routine: V-TAKE-OFF
+Compiling routine: TAKE-OFF-PRSO-FIRST
+Compiling routine: V-TASTE
+Compiling routine: V-TELL
+Compiling routine: TELL-TIME
+Compiling routine: V-TIME
+Compiling routine: V-THROW
+Compiling routine: V-THROW-OFF
+Compiling routine: V-TIE
+Compiling routine: V-TIE-UP
+Compiling routine: TOO-DARK
+Compiling routine: TOO-MUCH-JUNK?
+Compiling routine: V-TURN
+Compiling routine: V-TURN-LEFT
+Compiling routine: V-TURN-RIGHT
+Compiling routine: V-USE
+Compiling routine: V-VERBOSE
+Compiling routine: V-BRIEF
+Compiling routine: V-SUPER-BRIEF
+Compiling routine: V-VERSION
+Compiling routine: V-$VERIFY
+Compiling routine: V-$COMMAND
+Compiling routine: V-$RANDOM
+Compiling routine: V-$RECORD
+Compiling routine: V-$UNRECORD
+Compiling routine: V-UNLOCK
+Compiling routine: V-UNROLL
+Compiling routine: V-UNTIE
+Compiling routine: DO-WALK
+Compiling routine: V-WALK
+Compiling routine: V-WALK-AROUND
+Compiling routine: V-WALK-TO
+Compiling routine: V-WAIT
+Compiling routine: V-$WAIT
+Compiling routine: V-WAIT-FOR
+Compiling routine: PRE-WATER
+Compiling routine: V-WATER
+Compiling routine: V-WAVE-AT
+Compiling routine: V-WEAR
+Compiling routine: WEIGHT
+Compiling routine: V-YELL
+Compiling routine: YES?
+Compiling routine: NOW-LIT?
+Compiling routine: WASTE-OF-TIME
+Input file: PS:<DA.PLAYLAND>PARLOR.ZIL.650
+Compiling routine: FILM-F
+Compiling routine: SLIDE-F
+Compiling routine: FILM-SLIDE-DESC
+Compiling routine: FILM-PROJECTOR-F
+Compiling routine: CORPSE-LINE-DEATH
+Compiling routine: I-FILM-DROP
+Compiling routine: PROJECTORS-DESC
+Compiling routine: SLIDE-PROJECTOR-F
+Compiling routine: PROJECTED-IMAGE-F
+Compiling routine: PROJECTION-SCREEN-F
+Compiling routine: LENS-CAP-F
+Compiling routine: FILM-PROJECTOR-LENS-F
+Compiling routine: SLIDE-PROJECTOR-LENS-F
+ ** Note: Unknown value - SCREENING-ROOM-PSEUDO-F
+Compiling routine: PROJECTION-BOOTH-F
+Compiling routine: SCREENING-ROOM-PSEUDO-F
+Compiling routine: OUTSIDE-PARLOR-F
+ ** Note: Unknown value - CASTERS-PSEUDO
+Compiling routine: PARLOR-F
+Compiling routine: TO-CRAWL-SPACE-NORTH
+Compiling routine: CRAWL-SPACE-DOOR-F
+ ** Note: Unknown value - BEAM-PSEUDO
+ ** Note: Unknown value - BEAM-PSEUDO
+Compiling routine: CRAWL-SPACE-NORTH-F
+Compiling routine: TO-CRAWL-SPACE-SOUTH
+Compiling routine: TO-FIRST-SECRET-ROOM
+Compiling routine: PARKING-METER-F
+Compiling routine: DESCRIBE-NICHE
+Compiling routine: BEAM-PSEUDO
+Compiling routine: DESCRIBE-CRAWL-SPACE-BEAM
+ ** Note: Unknown value - BEAM-PSEUDO
+ ** Note: Unknown value - BEAM-PSEUDO
+Compiling routine: CRAWL-SPACE-SOUTH-F
+Compiling routine: POST-F
+Compiling routine: PIANO-F
+Compiling routine: CASTERS-PSEUDO
+Compiling routine: NICHE-F
+Compiling routine: I-NOISE
+Compiling routine: OUT-OF-P-DEBUG
+Input file: PS:<DA.PLAYLAND>FIRST-FLOOR.ZIL.794
+Compiling routine: LETTER-F
+Compiling routine: PHOTO-F
+Compiling routine: BUCK-F
+Compiling routine: SAY-BUCK-DIR
+Compiling routine: FLASHLIGHT-F
+Compiling routine: STAIRS-F
+Compiling routine: FOYER-F
+Compiling routine: FOYER-CD-F
+Compiling routine: FOYER-STAIRS-F
+Compiling routine: TO-UPSTAIRS-HALL-MIDDLE
+Compiling routine: NEWEL-F
+Compiling routine: FOYER-CLOSET-ENTER-F
+ ** Note: Unknown value - CELLAR-PSEUDO
+Compiling routine: CELLAR-F
+Compiling routine: CELLAR-PSEUDO
+Compiling routine: CELLAR-CD-F
+Compiling routine: CELLAR-CLOSET-ENTER-F
+Compiling routine: DISPLAY-LIGHTS-F
+Compiling routine: COMPUTER-F
+Compiling routine: RESET-COMPUTER
+Compiling routine: RESET-BUTTON-F
+Compiling routine: TOUPEE-F
+Compiling routine: PUNCH-CARD-F
+Compiling routine: PERSIAN-RUG-F
+Compiling routine: BLUE-CANDLE-F
+Compiling routine: WHITE-CANDLE-F
+Compiling routine: RED-CANDLE-F
+Compiling routine: GENERIC-CANDLE-F
+Compiling routine: CANDLE-F
+Compiling routine: CANDLE-BURN
+Compiling routine: I-RED-ALMOST-OUT
+Compiling routine: I-WHITE-ALMOST-OUT
+Compiling routine: I-BLUE-ALMOST-OUT
+Compiling routine: I-RED-NEARLY-OUT
+Compiling routine: I-WHITE-NEARLY-OUT
+Compiling routine: I-BLUE-NEARLY-OUT
+Compiling routine: I-RED-CANDLE-BURN
+Compiling routine: I-WHITE-CANDLE-BURN
+Compiling routine: I-BLUE-CANDLE-BURN
+Compiling routine: FEET-F
+Compiling routine: BLOW-OUT-CANDLE
+Compiling routine: WAX-FEET
+Compiling routine: STOP-RED-BURNING
+Compiling routine: STOP-WHITE-BURNING
+Compiling routine: STOP-BLUE-BURNING
+Compiling routine: GENERIC-WAX-F
+Compiling routine: WAX-F
+Compiling routine: PORTRAIT-F
+Compiling routine: WALL-SAFE-F
+Compiling routine: GRATER-F
+Compiling routine: FIREPLACE-GLOBAL-F
+Compiling routine: FIREPLACE-F
+Compiling routine: BRICK-HOLE-F
+Compiling routine: BRICK-HOLE-GLOBAL-F
+Compiling routine: BRICK-F
+Compiling routine: UP-CHIMNEY
+Compiling routine: DOWN-CHIMNEY
+Compiling routine: PENGUIN-F
+Compiling routine: MASK-F
+Compiling routine: CHIMNEY-F
+Compiling routine: ROOF-TO-CHIMNEY
+Compiling routine: VERTICAL-MAP-F
+Compiling routine: LOOK-AT-MAP
+Compiling routine: WET-PAPER
+Compiling routine: HORIZONTAL-MAP-F
+Compiling routine: WHOLE-MAP
+Compiling routine: TO-CELLAR
+Input file: PS:<DA.PLAYLAND>SECOND-FLOOR.ZIL.290
+Compiling routine: UPSTAIRS-HALL-MIDDLE-F
+Compiling routine: UPSTAIRS-HALL-EAST-F
+Compiling routine: UPSTAIRS-HALL-EAST-EXIT-F
+Compiling routine: FINCH-F
+Compiling routine: BREAK-FINCH
+Compiling routine: SACK-F
+Compiling routine: SACK-WINDOW-F
+Compiling routine: UPSTAIRS-HALL-F
+Compiling routine: BEDROOM-2-F
+Compiling routine: HANDLES-F
+ ** Note: Unknown value - BATH-PSEUDO
+ ** Note: Unknown value - BATH-PSEUDO
+Compiling routine: UPSTAIRS-BATHROOM-F
+Compiling routine: BATH-PSEUDO
+Compiling routine: BATH-MAT-F
+Compiling routine: UPSTAIRS-CD-F
+Compiling routine: OPEN-DOOR-TO-SHAFT
+Compiling routine: TO-FOYER-F
+Compiling routine: UPSTAIRS-CLOSET-ENTER-F
+Compiling routine: PHONE-F
+Compiling routine: THERE-DOESNT-SEEM
+Compiling routine: V-PHONE
+Compiling routine: TOILET-F
+Compiling routine: SEAT-F
+Compiling routine: BED-F
+Compiling routine: I-SANDS-OF-TIME
+ ** Note: Unknown value - CORPSE-LINE
+ ** Note: Unknown value - RUBBER-STAMP
+ ** Note: Unknown value - RING
+ ** Note: Unknown value - FIRE-HYDRANT
+Compiling routine: MICKEY-MOUSE
+Input file: PS:<DA.PLAYLAND>BSHELTER.ZIL.951
+Compiling routine: MATCHBOX-F
+Compiling routine: WAX-COAT-F
+Compiling routine: MATCH-F
+Compiling routine: I-MATCH-BURN
+Compiling routine: MATCH-BURN
+Compiling routine: BLOW-OUT-MATCH
+Compiling routine: BOAT-DOCK-F
+Compiling routine: PORTABLE-WATER-F
+Compiling routine: WATER-F
+Compiling routine: ALL-WET
+Compiling routine: TO-BOAT-DOCK
+Compiling routine: UNDER-WATER-F
+Compiling routine: I-BREATH
+Compiling routine: OUT-OF-WATER-F
+Compiling routine: TO-UNDERPASS-EAST
+Compiling routine: TO-UNDERPASS-WEST
+Compiling routine: IN-POOL-2-F
+Compiling routine: ON-POOL-2-F
+ ** Note: Unknown value - PULLEY-PSEUDO
+Compiling routine: BOMB-SHELTER-F
+Compiling routine: HATCH-F
+Compiling routine: CHAIN-F
+Compiling routine: ENDS-F
+Compiling routine: IN-AIR
+Compiling routine: GENERIC-PLANK-F
+Compiling routine: PLANK-F
+Compiling routine: SLIDES-OFF
+Compiling routine: PULLEY-PSEUDO
+Compiling routine: PIPE-F
+Compiling routine: BS-SAFE-F
+Compiling routine: PLAQUE-F
+Compiling routine: CORPSE-LINE-F
+Compiling routine: RUBBER-STAMP-F
+Compiling routine: ROPE-F
+Compiling routine: I-ROPE-BURN
+Compiling routine: BURN-THROUGH-ROPE
+Compiling routine: I-SUNRISE
+Input file: PS:<DA.PLAYLAND>OUTSIDE.ZIL.484
+Compiling routine: HOUSE-F
+ ** Note: Unknown value - COMPASS-ROSE-PSEUDO
+Compiling routine: SOUTH-JUNCTION-F
+Compiling routine: TO-FRONT-PORCH
+Compiling routine: COMPASS-ROSE-PSEUDO
+Compiling routine: BAZOOKA-F
+Compiling routine: TO-&-FROM-SOUTH-JUNCTION
+Compiling routine: TO-&-FROM-TOP-LANDING
+Compiling routine: PATIO-F
+Compiling routine: GARDEN-F
+Compiling routine: GARDEN-WALLS-F
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - ROSE-BUSH-PSEUDO
+ ** Note: Unknown value - ROSE-BUSH-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+Compiling routine: ROSE-BUSH-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+ ** Note: Unknown value - FLORAL-PSEUDO
+Compiling routine: FLORAL-PSEUDO
+Compiling routine: POND-F
+Compiling routine: BLOW-OUT-ALL-IN
+Compiling routine: TO-&-FROM-CANNON
+Compiling routine: CANNON-EMPLACEMENT-F
+Compiling routine: TO-CLIFF
+ ** Note: Unknown value - CLIFF-PSEUDO
+Compiling routine: CLIFF-F
+Compiling routine: CLIFF-PSEUDO
+Compiling routine: TO-CANNON-EMPLACEMENT
+Compiling routine: TO-&-FROM-BOMB-SHELTER
+Compiling routine: LADDER-F
+Compiling routine: HOOKS-F
+Compiling routine: HATCH-HOLE-F
+Compiling routine: PILE-OF-BALLS-F
+Compiling routine: GENERIC-BALL-F
+Compiling routine: FUSE-F
+Compiling routine: CLOSE-ALL-IN
+Compiling routine: SET-FLAME-SOURCE
+Compiling routine: CANNON-F
+Compiling routine: COMPARTMENT-F
+Compiling routine: MOVE-OBJ-DOWN
+Compiling routine: DOOR-BELL-F
+Compiling routine: SKIS-F
+Compiling routine: TOP-LANDING-F
+Compiling routine: TO-BEACH
+Compiling routine: GAP-F
+Compiling routine: SKI-DOWN-STAIRS
+Compiling routine: FROM-LOWER-STAIRS
+Compiling routine: WALKWAY-TO-BOAT-DOCK
+Compiling routine: FIRE-F
+Compiling routine: SAND-F
+Input file: PS:<DA.PLAYLAND>ELEVATOR.ZIL.320
+ ** Note: Unknown value - CLOSET-HOLE-PSEUDO
+Compiling routine: CLOSET-HOLE-PSEUDO
+Compiling routine: CLOSET-F
+Compiling routine: PEG-5-F
+Compiling routine: CLOSET-EXIT-F
+Compiling routine: WHICH-DOOR?
+Compiling routine: PROP-VAULT-F
+Compiling routine: CHUTE-F
+Compiling routine: TO-CHUTE
+Compiling routine: CLOSET-REF-F
+Compiling routine: PEGS-F
+Compiling routine: PEG-F
+Compiling routine: PEG-0-F
+Compiling routine: ELEVATOR-OPERATOR
+Compiling routine: BUCKET-F
+Compiling routine: DESCRIBE-WATER-LEVEL
+Compiling routine: I-DRIP
+Compiling routine: EMPTY-BUCKET
+Compiling routine: NOT-HOLDING-WATER?
+Compiling routine: SHAFT-BOTTOM-F
+Compiling routine: CLOSET-TOP-F
+Compiling routine: CLOSET-TOP-EXIT
+Compiling routine: ATTIC-CD-F
+Compiling routine: ATTIC-F
+Compiling routine: TO-&-FROM-ATTIC
+Compiling routine: ATTIC-CLOSET-ENTER-F
+Compiling routine: TRUNK-F
+Compiling routine: FIRE-HYDRANT-F
+Compiling routine: ATTIC-DOOR-F
+Compiling routine: AUNT-F
+Compiling routine: HERMAN-F
+Compiling routine: PROP-F
+Compiling routine: I-AUNT
+Compiling routine: SAW-F
+Compiling routine: I-HERMAN-ATTACK
+Input file: PS:<DA.PLAYLAND>HEDGEMAZE.ZIL.467
+ ** Note: Unknown value - PARK-PSEUDO
+ ** Note: Unknown value - DOME-PSEUDO
+ ** Note: Unknown value - TRUCK-PSEUDO
+ ** Note: Unknown value - ROCKET-PSEUDO
+ ** Note: Unknown value - DOME-HOLE-PSEUDO
+ ** Note: Unknown value - DOME-HOLE-PSEUDO
+Compiling routine: PARK-PSEUDO
+Compiling routine: DOME-PSEUDO
+Compiling routine: DOME-HOLE-PSEUDO
+Compiling routine: TRUCK-PSEUDO
+Compiling routine: ROCKET-PSEUDO
+Compiling routine: TOKYO-F
+Compiling routine: MONUMENT-F
+Compiling routine: RING-F
+Compiling routine: TANK-F
+Compiling routine: PLANE-F
+Compiling routine: DOG-F
+Compiling routine: RED-BUTTON-F
+Compiling routine: WHITE-BUTTON-F
+Compiling routine: DOG-DEAD?
+Compiling routine: GREEN-BUTTON-F
+Compiling routine: I-TANK-ATTACK
+Compiling routine: I-ROCKET-ATTACK
+Compiling routine: BLUE-BUTTON-F
+Compiling routine: BLACK-BUTTON-F
+Compiling routine: MENS-ROOM-F
+Compiling routine: DESCRIBE-BATHROOM
+Compiling routine: LADIES-ROOM-F
+Compiling routine: ENTER-HM
+Compiling routine: I-HEDGE-FOOTSTEPS
+Compiling routine: HEDGE-MAZE-OBJ-F
+Compiling routine: HEDGE-MAZE-F
+Compiling routine: OUT-OF-HEART-OF-MAZE
+Compiling routine: HEART-OF-MAZE-HOLE-F
+Compiling routine: PUNCTUATION
+Compiling routine: HEDGE-WALK
+Compiling routine: OBJECTS-TO-TABLE
+Compiling routine: OBJECTS-TO-ROOM
+Input file: PS:<DA.PLAYLAND>MAP.ZIL.55
+Input file: PS:<DA.PLAYLAND>POINTS.ZIL.11
+ ** Note: OBJECT has no properties: DUMMY-OBJECT
+Vocabulary: 854
+Prepositions: 21
+	 IN
+	 TO
+	 OVER
+	 GO
+	 DOWN
+	 UP
+	 OUT
+	 LOOSE
+	 UNDER
+	 FROM
+	 ABOUT
+	 LEFT
+	 WITH
+	 THROUGH
+	 ON
+	 AROUND
+	 FOR
+	 BEHIND
+	 AT
+	 OFF
+Objects: 244
+	 NORTHWEST-JUNCTION
+	 HEDGE-MAZE-OBJ
+	 NORTHEAST-JUNCTION
+	 CANNON-EMPLACEMENT
+	 CLIFF
+	 LADDER
+	 HOOKS
+	 CANNON-BALL
+	 PILE-OF-BALLS
+	 FUSE
+	 CANNON
+	 FRONT-PORCH
+	 DOOR-BELL
+	 SKIS
+	 CLOSET
+	 TOP-LANDING
+	 UPPER-BEACH-STAIRS
+	 GAP
+	 LOWER-BEACH-STAIRS
+	 BOTTOM-LANDING
+	 SAND
+	 FIRE
+	 INLET
+	 PEG-5
+	 PROP-VAULT
+	 CHUTE
+	 PEGS
+	 PEG-3
+	 PEG-2
+	 PEG-1
+	 PEG-0
+	 NOTE
+	 BUCKET
+	 CLOSET-TOP
+	 ATTIC-CD
+	 ATTIC
+	 TRUNK
+	 FIRE-HYDRANT
+	 AUNT
+	 HERMAN
+	 CLUB
+	 STICK
+	 GUN
+	 MOP
+	 BAG
+	 CLIPPERS
+	 SHEARS
+	 SWORD
+	 SAW
+	 GAME-ROOM
+	 TOKYO
+	 MONUMENT
+	 RING
+	 TANK
+	 PLANE
+	 DOG
+	 RED-BUTTON
+	 WHITE-BUTTON
+	 GREEN-BUTTON
+	 BLUE-BUTTON
+	 BLACK-BUTTON
+	 SHORT-HALL
+	 MENS-ROOM
+	 LADIES-ROOM
+	 ENTRANCE-TO-MAZE
+	 HEDGE-MAZE
+	 HEART-OF-MAZE
+	 HEART-OF-MAZE-HOLE
+	 RUBBER-STAMP
+	 SHOVEL
+	 UPSTAIRS-BATHROOM
+	 BUCK
+	 PSEUDO-OBJECT
+	 GARDEN
+	 WHITE-WAX
+	 BOAT-DOCK
+	 SCREENING-ROOM
+	 ORANGE-CARD
+	 LETTER
+	 UPSTAIRS-HALL-MIDDLE
+	 OUTSIDE-PARLOR
+	 SLIDE
+	 MAILBOX
+	 PROJECTED-IMAGE
+	 FIREPLACE
+	 PIANO
+	 TOILET
+	 BRICK
+	 HOPPER
+	 SOUTH-NICHE
+	 DINING-ROOM-TABLE
+	 FILM
+	 BEDROOM-2
+	 WALL-SAFE
+	 FIRST-SECRET-ROOM
+	 SACK
+	 SLIDE-PROJECTOR-LENS
+	 DUMMY-OBJECT
+	 FILM-PROJECTOR-LENS
+	 PHONE
+	 MANTLE
+	 CEILING
+	 CRAWL-SPACE-NORTH
+	 FILM-PROJECTOR
+	 ROUND-POST
+	 BEDROOM-3
+	 INTNUM
+	 RED-CANDLE
+	 NOT-HERE-OBJECT
+	 NEWSLETTER
+	 PROJECTION-SCREEN
+	 GROUND
+	 WATER
+	 ATTIC-DOOR
+	 DISPLAY-LIGHTS
+	 RED-WAX
+	 GREEN-MATCH
+	 PERSIAN-RUG
+	 HORIZONTAL-MAP
+	 YOUR-FEET
+	 SEAT
+	 STAIRS
+	 UPSTAIRS-CD
+	 FOYER-CD
+	 THEM
+	 BEDROOM-1
+	 PORTABLE-WATER
+	 SACK-WINDOW
+	 GRATER
+	 RED-CARD
+	 TOUPEE
+	 CELLAR-CD
+	 HIM
+	 COMPARTMENT
+	 FINCH
+	 LENS-CAP
+	 SLIDE-PROJECTOR
+	 GLOBAL-ROOM
+	 MAZE-HOLE
+	 BED
+	 FIREPLACE-GLOBAL
+	 FLASHLIGHT
+	 FOYER
+	 ROOF-2
+	 UPSTAIRS-HALL-WEST
+	 OAK-DOOR
+	 CRAWL-SPACE-DOOR
+	 VERTICAL-MAP
+	 FOYER-STAIRS
+	 MATCHBOX
+	 VIOLET-CARD
+	 NORTH-NICHE
+	 CRAWL-SPACE-SOUTH
+	 COMPUTER
+	 RESET-BUTTON
+	 HANDLES
+	 BRICK-HOLE
+	 CHIMNEY-1
+	 BEACH
+	 MASK
+	 BRICK-HOLE-GLOBAL
+	 BLUE-CANDLE
+	 BLUE-CARD
+	 LIVING-ROOM
+	 WAX-COAT-2
+	 WAX-COAT-1
+	 BLUE-FEET
+	 WALLS
+	 IT
+	 PROJECTION-BOOTH
+	 GLOBAL-OBJECTS
+	 PHOTO
+	 PORTRAIT
+	 YELLOW-CARD
+	 CARD
+	 PATIO
+	 BATH-MAT
+	 UPSTAIRS-HALL-EAST
+	 WHITE-FEET
+	 HER
+	 LOCAL-GLOBALS
+	 PLAYER
+	 CHIMNEY-3
+	 SQUARE-POST
+	 ROOF-1
+	 GREEN-CARD
+	 CHIMNEY
+	 ROOMS
+	 INTDIR
+	 P-DEBUG
+	 CELLAR
+	 DINING-ROOM
+	 LIGHTS
+	 KITCHEN
+	 PENGUIN
+	 CHIMNEY-2
+	 RED-FEET
+	 INDIGO-CARD
+	 ME
+	 RED-MATCH
+	 BLUE-WAX
+	 SHAFT-BOTTOM
+	 SOFA
+	 WINDOW
+	 NEWEL
+	 WHITE-CANDLE
+	 PARKING-METER
+	 CLOSET-REF
+	 PARLOR
+	 HANDS
+	 SOUTH-JUNCTION
+	 ON-POOL-1
+	 IN-POOL-1
+	 UNDERPASS-1
+	 UNDERPASS-2
+	 IN-POOL-2
+	 ON-POOL-2
+	 LEDGE
+	 TUNNEL
+	 ROPE
+	 BOMB-SHELTER
+	 HATCH
+	 PLANK
+	 HATCH-HOLE
+	 SAWHORSE
+	 CHAIN
+	 LEFT-END
+	 RIGHT-END
+	 PIPE
+	 BS-SAFE
+	 PLAQUE
+	 CORPSE-LINE
+	 HOUSE
+	 BAZOOKA
+	 SOUTHEAST-JUNCTION
+	 SOUTHWEST-JUNCTION
+	 PATIO-DOOR
+	 GARDEN-WALLS
+	 SOUTH-GARDEN
+	 EAST-GARDEN
+	 WEST-GARDEN
+	 NORTH-GARDEN
+	 ORCHIDS
+	 POND
+Properties: 31
+	 P?GLOBAL
+	 P?SYNONYM
+	 P?ADJECTIVE
+	 P?PSEUDO
+	 P?OUT
+	 P?WEST
+	 P?SW
+	 P?ACTION
+	 P?VALUE
+	 P?CARD-NUM
+	 P?SIZE
+	 P?DESCFCN
+	 P?SDESC
+	 P?TEXT
+	 P?NE
+	 P?GENERIC
+	 P?CAPACITY
+	 P?CONTFCN
+	 P?LDESC
+	 P?FDESC
+	 P?ADVFCN
+	 P?THINGS
+	 P?IN
+	 P?DOWN
+	 P?UP
+	 P?NW
+	 P?SOUTH
+	 P?SE
+	 P?EAST
+	 P?NORTH
+Globals: 160
+	 DOOR-BELL-TUNES
+	 AMOUNT-OF-WATER
+	 BUCKET-PEG
+	 AUNT-COUNT
+	 AUNT-DISTANCE
+	 HERMAN-DOWN
+	 HERMAN-HITS
+	 PROPS
+	 RING-UNDER-DOME
+	 BURN-DOME
+	 DOG-BREATH
+	 PLANES-LEFT
+	 TANKS-LEFT
+	 ROCKET-LOC
+	 HIT-POINTS
+	 DOG-LOC
+	 TANK-LOC
+	 PLANE-LOC
+	 DOG-IN-PAIN
+	 TRUCK-LOC
+	 ROCKET-LIFE
+	 HM-ROOM
+	 HM-BITS
+	 HEDGE-OBJECTS-TABLE
+	 HM-TABLE
+	 HEDGE-CRASH
+	 BITS-&-PIECES
+	 P-HER-OBJECT
+	 P-NCN
+	 WHERE-TO-PRINT
+	 I-ASSUME
+	 P-SENTENCE
+	 SACK-IN-WINDOW
+	 BUCK-DIR
+	 USELESSNESS
+	 OOPS-TABLE
+	 OFFENDED
+	 P-PRSI
+	 PEG-IN-WAY
+	 DOG-PADDLE
+	 DOOR-NOISES
+	 P-MERGE
+	 C-TABLE
+	 INDOOR-NOISE
+	 RIDICULOUS
+	 SNOWPLOW
+	 UNKNOWN-MSGS
+	 YES-INBUF
+	 PYRO
+	 P-OVTBL
+	 YOU-CANT
+	 P-PRSO
+	 AGAIN-LEXV
+	 P-BUTS
+	 P-OCL1
+	 P-OCL2
+	 OUT-OF-NOWHERE
+	 YES-LEXV
+	 COMPUTER-LIGHTS
+	 YOU-SEE
+	 LIKELIES
+	 SPINACH
+	 P-VTBL
+	 OOPS-INBUF
+	 HO-HUM
+	 OKAY
+	 NUMWORDS
+	 TREASURE-TABLE
+	 WASHED-OUT-BITS
+	 WHITE-LIGHT
+	 LENS-ATTACHED
+	 P-ITBL
+	 CANDLE-DESC
+	 P-CCTBL
+	 DISPLAY-TABLE
+	 SONGS
+	 P-OTBL
+	 CARD-TABLE
+	 YAWNS
+	 P-INBUF
+	 P-LEXV
+	 OUTDOOR-NOISE
+	 NO-DATA
+	 RESERVE-LEXV
+	 YUKS
+	 TIPPED
+	 RESERVE-PTR
+	 PRSI
+	 SAYING?
+	 P-IT-OBJECT
+	 BLUE-MID-BURN
+	 SOUTH-JUNCTION-VISITS
+	 TREASURES-FOUND
+	 P-ADJN
+	 QCONTEXT-ROOM
+	 WINNER
+	 P-OFLAG
+	 HEDGE-NUM
+	 P-NUMBER
+	 BUCK-TURNED?
+	 P-GETFLAGS
+	 P-TABLE
+	 QUOTE-FLAG
+	 P-NMERGE
+	 CLOSET-FLOOR
+	 LAST-PLAYER-LOC
+	 QCONTEXT
+	 STEPS-THROUGH-WALL-SAFE
+	 SONG-NUMBER
+	 P-WON
+	 DIAL-NUMBER
+	 P-VMERGE
+	 P-AND
+	 SONG-PLAYED
+	 CARD-COUNT
+	 P-EXCHANGE
+	 P-PRSA-WORD
+	 PRSA
+	 P-AADJ
+	 ITAKE-LOC
+	 PIANO-LOC
+	 P-XADJ
+	 P-SYNTAX
+	 P-GWIMBIT
+	 P-MERGED
+	 PRSO
+	 DEBUG
+	 C-INTS
+	 P-LEN
+	 P-ADJ
+	 PROJECTOR-POINTS
+	 P-MOBY-FLAG
+	 P-XADJN
+	 LIT
+	 P-THEM-OBJECT
+	 P-DIRECTION
+	 VERBOSITY
+	 MYSTERY-GUEST
+	 P-CONT
+	 LAST-PSEUDO-LOC
+	 CLOCK-HAND
+	 P-ANAM
+	 WHITE-MID-BURN
+	 P-WALK-DIR
+	 P-MOBY-FOUND
+	 P-XNAM
+	 P-NAM
+	 CLOCK-WAIT
+	 RED-MID-BURN
+	 P-ADVERB
+	 P-SLOCBITS
+	 P-ACLAUSE
+	 P-HIM-OBJECT
+	 STEPS-THROUGH-BUCK
+	 P-END-ON-PREP
+	 BREATH
+	 WHICH-END-IS-UP
+	 STEPS-THROUGH-BS-SAFE
+	 BS-SAFE-DIAL-NUMBER
+	 ROPE-LIFE
